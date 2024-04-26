@@ -1,0 +1,26 @@
+[
+    {
+      "title": "Apartment Listing System",
+      "imageSrc": "projects/project.png",
+      "description": "This project showcases an innovative web application designed to revolutionize the apartment hunting experience.  ",
+      "skills": [ "Java", "Spring MVC", "Git", "JavaScript", "MongoDB"],
+      "demo": "https://www.example.com",
+      "source": "https://www.github.com"
+    },
+    {
+      "title": "Library Management System",
+      "imageSrc": "projects/project.png",
+      "description": "This project is a comprehensive library management system designed to enhance the library experience. ",
+      "skills": ["Java",  "JavaScript", "Spring MVC", "SQL", "MongoDB"],
+      "demo": "https://www.example.com",
+      "source": "https://www.github.com"
+    },
+    {
+      "title": "Online Job Portal",
+      "imageSrc": "projects/project.png",
+      "description": "This is a project that empowers a smarter job search, connecting the right people with the right opportunities.",
+      "skills": ["HTML5",  "Java",  "JavaScript", "Spring Boot", "JSP", "MongoDB"],
+      "demo": "https://www.example.com",
+      "source": "https://www.github.com"
+    }
+  ]

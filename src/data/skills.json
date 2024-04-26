@@ -1,0 +1,39 @@
+[
+    {
+      "title": "HTML",
+      "imageSrc": "skills/html.png"
+    },
+    {
+      "title": "CSS",
+      "imageSrc": "skills/css.png"
+    },
+    {
+      "title": "React",
+      "imageSrc": "skills/react.png"
+    },
+    {
+      "title": "Node Js",
+      "imageSrc": "skills/node.png"
+    },
+    {
+      "title": "Java",
+      "imageSrc": "skills/graphql.png"
+    },
+    {
+      "title": "C#",
+      "imageSrc": "skills/mongodb.png"
+    },
+    {
+      "title": "C++",
+      "imageSrc": "skills/figma.png"
+    },
+
+    {
+      "title": "AWS",
+      "imageSrc": "skills/figma.png"
+    },
+    {
+      "title": "Azure",
+      "imageSrc": "skills/figma.png"
+    }
+  ]
