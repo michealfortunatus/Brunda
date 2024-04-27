@@ -11,7 +11,7 @@ export const Hero = () => {
         <p className={styles.description}>
           I'm a Java full-stack developer with 5 years of experience in developing Web-based applications using Java and J2EE technologies. Reach out if you'd like to learn more!
         </p>
-        <a href="mailto:myemail@email.com" className={styles.contactBtn}>
+        <a href="mailto:brund.lakkireddy01@gmail.com" className={styles.contactBtn}>
           Contact Me
         </a>
       </div>

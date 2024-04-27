@@ -17,23 +17,23 @@
     },
     {
       "title": "Java",
-      "imageSrc": "skills/graphql.png"
+      "imageSrc": "skills/Java.png"
     },
     {
       "title": "C#",
-      "imageSrc": "skills/mongodb.png"
+      "imageSrc": "skills/c.png"
     },
     {
       "title": "C++",
-      "imageSrc": "skills/figma.png"
+      "imageSrc": "skills/C++.png"
     },
 
     {
       "title": "AWS",
-      "imageSrc": "skills/figma.png"
+      "imageSrc": "skills/aws.png"
     },
     {
       "title": "Azure",
-      "imageSrc": "skills/figma.png"
+      "imageSrc": "skills/Azure.jfif"
     }
   ]

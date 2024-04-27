@@ -2,7 +2,7 @@
     {
       "title": "Apartment Listing System",
       "imageSrc": "projects/project.png",
-      "description": "This project showcases an innovative web application designed to revolutionize the apartment hunting experience.  ",
+      "description": "This project showcases an innovative web based application designed to revolutionize the apartment hunting experience.  ",
       "skills": [ "Java", "Spring MVC", "Git", "JavaScript", "MongoDB"],
       "demo": "https://www.example.com",
       "source": "https://www.github.com"

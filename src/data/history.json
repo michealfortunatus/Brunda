@@ -4,17 +4,17 @@
       "organisation": "BlackRock Inc, TX",
       "startDate": "Apr, 2022",
       "endDate": "Present",
-      "experiences": ["Designing and developing Java-based applications", "reducing the development cycle by 40%"],
-      "imageSrc": "history/google.png"
+      "experiences": ["Developing Java-based applications"],
+      "imageSrc": "history/blackrock.png"
     },
     {
       "role": "Java Full Stack Developer ",
       "organisation": "Cognizant, India",
       "startDate": "Feb, 2018",
       "endDate": "Apr, 2021",
-      "experiences": ["Developed and maintained a Java application", " resulting in a 25% increase in customer base"],
+      "experiences": ["Developed & maintained a Java application"],
       
-      "imageSrc": "history/microsoft.png"
+      "imageSrc": "history/cognizant.svg"
     }
     
   ]
